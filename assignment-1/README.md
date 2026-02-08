@@ -7,6 +7,7 @@ This repository contains a series of exercises designed to practice and master f
 The assignments are located in the `problems` directory, with corresponding solutions in the `solutions` directory.
 
 | Problem | Description | Topic |
+
 |---------|-------------|-------|
 | **[Horizontal Align](./problems/0-horizontal-align)** | Basics of horizontal alignment | CSS Alignment |
 | **[Vertical Align](./problems/1-vertical-align)** | Basics of vertical alignment | CSS Alignment |
